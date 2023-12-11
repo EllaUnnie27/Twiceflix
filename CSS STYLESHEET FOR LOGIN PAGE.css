@@ -149,10 +149,14 @@ form .form-help {
 }
 form .remember-me {
     display: flex;
+    color: #ffffff;
 }
 form .remember-me input {
     margin-right: 5px;
     accent-color: #000000;
+}
+.form-wrapper p{
+    color: #ffffff;
 }
 .form-wrapper p a {
     color: #fff;
